@@ -9,5 +9,5 @@ Erhobene Daten, verarbeitete Daten und Ergebnisse zu meinem wissenschaftlichen P
 ├── NDBI
 │   └── dNDBI
 ├── Resampled_Layer # B11, da die 20m waren und auf 10m resampled wurden
-└── Traing_Validation_Layer
+└── Traing_und_Validation_Layer
 ```
